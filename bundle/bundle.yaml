@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cb-casc-demo-cw-dev-controller"
+description: "CloudBees CI configuration bundle for the cb-casc-demo-cw dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cb-casc-demo-cw/dev-controller"
+parent: "base"

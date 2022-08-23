@@ -1,0 +1,4 @@
+variables:
+- team: cb-casc-demo-cw
+- admin-user: troybriggs-admin
+- manager-user: troybriggs
